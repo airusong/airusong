@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend(Go,JAVA,Python) 
+ and Databases(SQL,ElasticSearch). I like to use GCP and AWS for Cloud Solutions. :octocat:
+
+🚀 Some of my main projects:
+[![ReadMe Card](https://github.com/airusong/portfolio)](https://github.com/airusong/portfolio)
+
+[![ReadMe Card](https://github.com/airusong/Risc)](https://github.com/airusong/Risc)
+
+## Follow Me
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airu-song/)](https://www.linkedin.com/in/airu-song/)
 <!--
 **airusong/airusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

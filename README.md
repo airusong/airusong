@@ -4,12 +4,12 @@
  and Databases(SQL,ElasticSearch). I like to use GCP and AWS for Cloud Solutions. :octocat:
 
 🚀 Some of my main projects:
-[![ReadMe Card](https://github.com/airusong/portfolio)](https://github.com/airusong/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=airusong&repo=portfolio)](https://github.com/airusong/portfolio)
 
-[![ReadMe Card](https://github.com/airusong/Risc)](https://github.com/airusong/Risc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=airusong&repo=Risc)](https://github.com/airusong/Risc)
 
 ## Follow Me
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airu-song/)](https://www.linkedin.com/in/airu-song/)
+
 <!--
 **airusong/airusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

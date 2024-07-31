@@ -11,7 +11,8 @@
 
 ## Follow Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-airu-song-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airu-song/)](https://www.linkedin.com/in/airu-song/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airu-song/)
+
 <!--
 **airusong/airusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
